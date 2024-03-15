@@ -1,0 +1,12 @@
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\bin\Debug\net7.0\Productos.Utils.deps.json
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\bin\Debug\net7.0\Productos.Utils.dll
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\bin\Debug\net7.0\Productos.Utils.pdb
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.csproj.AssemblyReference.cache
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.AssemblyInfoInputs.cache
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.AssemblyInfo.cs
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.csproj.CoreCompileInputs.cache
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.dll
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\refint\Productos.Utils.dll
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\Productos.Utils.pdb
+C:\Users\fbrandi\Desktop\Curso React ASP.net\ProyectoProductos\Productos\Productos.Utils\obj\Debug\net7.0\ref\Productos.Utils.dll
